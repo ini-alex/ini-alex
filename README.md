@@ -1,46 +1,60 @@
-<h1 align="center">Hi, I'm Alexa Putra 👋</h1>
-<p align="center">Programmer muda yang fokus di pengembangan bot & web dengan tujuan bikin karya yang berguna & bisa menghasilkan.</p>
+<h1 align="center">Alexa Putra</h1>
+<p align="center">💻 Programmer | 🤖 Bot Developer | 🌐 Web Enthusiast</p>
+
+<p align="center">
+  <a href="mailto:alexaputra498@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://wa.me/6285129426672"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://github.com/ini-alex"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://www.tiktok.com/@ini__alexx"><img src="https://img.shields.io/badge/-TikTok-black?style=flat&logo=tiktok&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🚀 Tentang Gw
+## 🧠 Tentang Saya
 
-- 🎯 Fokus di **pengembangan bot WhatsApp (Baileys)**, **tools otomatisasi**, dan **website info berbasis real-time**
-- 🔄 Aktif ngembangin **Project X**: Bot WhatsApp & Telegram serbaguna
-- 🎓 Belajar lanjutan bidang **Rekayasa Perangkat Lunak (RPL)** dan pengembangan AI
-- 💡 Tujuan: Sukses di dunia coding, bikin sesuatu yang bermanfaat, dan ngebanggain orang tua
+Halo! Saya Alexa, developer muda asal Indonesia yang fokus di:
 
----
+- 🔧 Pengembangan **bot WhatsApp & Telegram** (Baileys)
+- 🌐 Web development (HTML, CSS, JS)
+- ⚙️ Tools otomatisasi berbasis CLI dan Node.js
 
-## 💻 Skill & Tools
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![HTML](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Termux](https://img.shields.io/badge/-Termux-black?style=flat-square&logo=gnu-bash)
+Saya percaya bahwa teknologi bukan cuma soal kode, tapi soal menciptakan solusi nyata yang berdampak.
 
 ---
 
-## 📫 Kontak
+## ⚒️ Skillset & Tools
 
-- 📧 Email: [alexaputra498@gmail.com](mailto:alexaputra498@gmail.com)
-- 💬 WhatsApp: [+62 851-2942-6672](https://wa.me/6285129426672)
-- 🎵 TikTok: [@ini__alexx](https://www.tiktok.com/@ini__alexx)
-- 💻 GitHub: [@ini-alex](https://github.com/ini-alex)
+| 🌐 Web Dev | ⚙️ Backend | 💾 Database | 🧰 Tools |
+|-----------|------------|-------------|----------|
+| HTML, CSS, JS | Node.js, Express | MongoDB (Mondroid) | Termux, Git |
+| Tailwind CSS | REST API | Mongoose | VS Code |
+
+---
+
+## 🎯 Fokus Saat Ini
+
+- 🚀 Membangun **Project X** – bot WhatsApp & Telegram multifungsi
+- 📚 Belajar lanjutan di bidang **RPL** & eksplorasi AI
+- 🛠️ Bangun portofolio coding yang interaktif dan bermanfaat
 
 ---
 
 ## 📊 Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ini-alex&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ini-alex&layout=compact&theme=tokyonight" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ini-alex&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ini-alex&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
-<p align="center">
-  <b>“Coding bukan sekadar hobi, ini dunia gw.”</b>
-</p>
+## 📫 Kontak Saya
+
+- 📧 **Email**: [alexaputra498@gmail.com](mailto:alexaputra498@gmail.com)
+- 💬 **WhatsApp**: [Klik untuk chat](https://wa.me/6285129426672)
+- 🎵 **TikTok**: [@ini__alexx](https://www.tiktok.com/@ini__alexx)
+- 💻 **GitHub**: [@ini-alex](https://github.com/ini-alex)
+
+---
+
+<p align="center"><i>“Code with purpose. Build with impact.”</i></p>
