@@ -27,14 +27,14 @@ Saya percaya bahwa teknologi bukan cuma soal kode, tapi soal menciptakan solusi 
 | 🌐 Web Dev | ⚙️ Backend | 💾 Database | 🧰 Tools |
 |-----------|------------|-------------|----------|
 | HTML, CSS, JS | Node.js, Express | MongoDB (Mondroid) | Termux, Git |
-| Tailwind CSS | REST API | Mongoose | VS Code |
+| Tailwind CSS | REST API | Mongoose |  |
 
 ---
 
 ## 🎯 Fokus Saat Ini
 
 - 🚀 Membangun **Project X** – bot WhatsApp & Telegram multifungsi
-- 📚 Belajar lanjutan di bidang **RPL** & eksplorasi AI
+- 📚 Belajar lanjutan di bidang **RPL(walau masih smp, wkwk)** & eksplorasi AI
 - 🛠️ Bangun portofolio coding yang interaktif dan bermanfaat
 
 ---
